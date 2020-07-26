@@ -1,0 +1,101 @@
+Removed Pin From Net: NetName=MOSI Pin=Q1-2
+Removed Pin From Net: NetName=VREG Pin=Q1-3
+Removed Pin From Net: NetName=SCK Pin=Q2-2
+Removed Pin From Net: NetName=VREG Pin=Q2-3
+Removed Pin From Net: NetName=MISO Pin=Q3-2
+Removed Pin From Net: NetName=VREG Pin=Q3-3
+Removed Pin From Net: NetName=CSn Pin=Q4-2
+Removed Pin From Net: NetName=VREG Pin=Q4-3
+Removed Pin From Net: NetName=GP0 Pin=Q5-2
+Removed Pin From Net: NetName=VREG Pin=Q5-3
+Removed Pin From Net: NetName=GP3 Pin=Q6-2
+Removed Pin From Net: NetName=VREG Pin=Q6-3
+Removed Pin From Net: NetName=GP2 Pin=Q7-2
+Removed Pin From Net: NetName=VREG Pin=Q7-3
+Removed Pin From Net: NetName=5V Pin=R1-2
+Removed Pin From Net: NetName=MOSI Pin=R2-1
+Removed Pin From Net: NetName=VREG Pin=R2-2
+Removed Pin From Net: NetName=5V Pin=R3-2
+Removed Pin From Net: NetName=SCK Pin=R4-1
+Removed Pin From Net: NetName=VREG Pin=R4-2
+Removed Pin From Net: NetName=5V Pin=R5-2
+Removed Pin From Net: NetName=MISO Pin=R6-1
+Removed Pin From Net: NetName=VREG Pin=R6-2
+Removed Pin From Net: NetName=5V Pin=R7-2
+Removed Pin From Net: NetName=CSn Pin=R8-1
+Removed Pin From Net: NetName=VREG Pin=R8-2
+Removed Pin From Net: NetName=5V Pin=R13-2
+Removed Pin From Net: NetName=GP0 Pin=R14-1
+Removed Pin From Net: NetName=VREG Pin=R14-2
+Removed Pin From Net: NetName=5V Pin=R16-2
+Removed Pin From Net: NetName=GP3 Pin=R17-1
+Removed Pin From Net: NetName=VREG Pin=R17-2
+Removed Pin From Net: NetName=5V Pin=R18-2
+Removed Pin From Net: NetName=GP2 Pin=R19-1
+Removed Pin From Net: NetName=VREG Pin=R19-2
+Removed Member From Class: ClassName=Radio Member=Q1
+Removed Member From Class: ClassName=Radio Member=Q2
+Removed Member From Class: ClassName=Radio Member=Q3
+Removed Member From Class: ClassName=Radio Member=Q4
+Removed Member From Class: ClassName=Radio Member=Q5
+Removed Member From Class: ClassName=Radio Member=Q6
+Removed Member From Class: ClassName=Radio Member=Q7
+Removed Member From Class: ClassName=Radio Member=R3
+Removed Member From Class: ClassName=Radio Member=R4
+Removed Member From Class: ClassName=Radio Member=R5
+Removed Member From Class: ClassName=Radio Member=R6
+Removed Member From Class: ClassName=Radio Member=R7
+Removed Member From Class: ClassName=Radio Member=R8
+Removed Member From Class: ClassName=Radio Member=R13
+Removed Member From Class: ClassName=Radio Member=R14
+Removed Member From Class: ClassName=Radio Member=R16
+Removed Member From Class: ClassName=Radio Member=R17
+Removed Member From Class: ClassName=Radio Member=R18
+Removed Member From Class: ClassName=Radio Member=R19
+Change component parameters: Designator = "R1"; Footprint = "2-0402"; UniqueID = "\SLPYDVYR"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = ""; Value = "10K"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Code_IPC"; Value = "1005 [0402]"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.panasonic.com/industrial/components/resistive_products.htm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.panasonic.com/industrial/components/pdf/AOA0000CE2.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "19-Mar-2004"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Silkscreen size reduced."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDocument"; Value = "Mar-2003"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "2-0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "17-Dec-2003"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R2"; Footprint = "2-0402"; UniqueID = "\JNMJOVLT"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = ""; Value = "10K"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Code_IPC"; Value = "1005 [0402]"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.panasonic.com/industrial/components/resistive_products.htm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.panasonic.com/industrial/components/pdf/AOA0000CE2.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "19-Mar-2004"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Silkscreen size reduced."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDocument"; Value = "Mar-2003"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "2-0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "17-Dec-2003"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GP0 Pin=InLand_Header-11
+Added Pin To Net: NetName=GP2 Pin=InLand_Header-13
+Added Pin To Net: NetName=GP3 Pin=InLand_Header-15
+Added Pin To Net: NetName=MOSI Pin=InLand_Header-19
+Added Pin To Net: NetName=MISO Pin=InLand_Header-21
+Added Pin To Net: NetName=SCK Pin=InLand_Header-23
+Added Pin To Net: NetName=CSn Pin=InLand_Header-24
+Added Pin To Net: NetName=GND Pin=R1-1
+Added Pin To Net: NetName=GP2 Pin=R1-2
+Added Pin To Net: NetName=GND Pin=R2-1
+Added Pin To Net: NetName=GP0 Pin=R2-2
+Added Pin To Net: NetName=GP0 Pin=Shoreline_Header-11
+Added Pin To Net: NetName=GP2 Pin=Shoreline_Header-13
+Added Pin To Net: NetName=GP3 Pin=Shoreline_Header-15
+Added Pin To Net: NetName=MOSI Pin=Shoreline_Header-19
+Added Pin To Net: NetName=MISO Pin=Shoreline_Header-21
+Added Pin To Net: NetName=SCK Pin=Shoreline_Header-23
+Added Pin To Net: NetName=CSn Pin=Shoreline_Header-24
+Added Room: Name=Radio

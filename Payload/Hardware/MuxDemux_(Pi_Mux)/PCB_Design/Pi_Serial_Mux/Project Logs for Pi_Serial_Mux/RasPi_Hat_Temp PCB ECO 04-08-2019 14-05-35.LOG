@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=18 Pin=IC1-1
+Added Pin To Net: NetName=GND Pin=IC1-9
+Added Room: Name=RasPi_Hat_Temp

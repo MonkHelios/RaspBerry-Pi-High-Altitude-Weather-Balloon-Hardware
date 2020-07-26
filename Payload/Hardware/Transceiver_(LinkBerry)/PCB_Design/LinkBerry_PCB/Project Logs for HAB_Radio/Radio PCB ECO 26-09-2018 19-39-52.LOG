@@ -1,0 +1,8 @@
+Added Component: Designator=J1(PCBComponent_1)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Pin To Net: NetName=NetJ1_1 Pin=J1-1
+Added Pin To Net: NetName=NetJ1_1 Pin=U3-7
+Added Net: Name=NetJ1_1
+Added Member To Class: ClassName=Radio Member=Component J1 SMA EDGE

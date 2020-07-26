@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [HAB_Radio.PrjPcb]
+   Generated File[Radio-Plated.TXT]
+   Generated File[Radio-NonPlated.TXT]
+   Generated File[Radio.LDP]
+   Generated File[Radio.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 14:07:49 On 20-07-2019

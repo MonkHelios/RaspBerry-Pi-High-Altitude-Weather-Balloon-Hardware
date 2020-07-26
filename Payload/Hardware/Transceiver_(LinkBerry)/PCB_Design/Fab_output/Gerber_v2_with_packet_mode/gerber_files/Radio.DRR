@@ -1,0 +1,21 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Radio.PcbDoc   24-07-2019  09:44:09
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII Plated RoundHoles File : Radio-Plated.TXT
+ASCII Non-Plated RoundHoles File : Radio-NonPlated.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.2mm (8mil)                                              Round             11        PTH        29.65mm (1.17inch)
+T2      0.254mm (10mil)                                           Round             77        PTH        182.04mm (7.17inch)
+T3      0.3mm (12mil)                                             Round             9         PTH        9.60mm (0.38inch)
+T4      0.381mm (15mil)                                           Round             96        PTH        283.84mm (11.17inch)
+T5      0.508mm (20mil)                                           Round             9         PTH        15.43mm (0.61inch)
+T6      0.9mm (35mil)                                             Round             90        PTH        286.94mm (11.30inch)
+T7      2.794mm (110mil)                                          Round             6         NPTH       156.00mm (6.14inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              298
+
+Total Processing Time (hh:mm:ss) : 00:00:01

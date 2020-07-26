@@ -1,0 +1,11 @@
+Added Component: Designator=U2(LP5912_WSON)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=VREG Pin=U2-1
+Added Pin To Net: NetName=GND Pin=U2-2
+Added Pin To Net: NetName=NetR15_1 Pin=U2-3
+Added Pin To Net: NetName=5V Pin=U2-4
+Added Pin To Net: NetName=GND Pin=U2-5
+Added Pin To Net: NetName=5V Pin=U2-6
+Added Pin To Net: NetName=GND Pin=U2-7
+Added Member To Class: ClassName=Radio Member=Component U2 LP5912
+Added Room: Name=Radio

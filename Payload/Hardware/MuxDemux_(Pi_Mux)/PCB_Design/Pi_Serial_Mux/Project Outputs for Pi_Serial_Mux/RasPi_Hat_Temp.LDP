@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: X:\Aditya_Mukherjee\electronics\projects\EarthSat\MuxDemux\Altium\Pi_Serial_Mux\RasPi_Hat_Temp.PcbDoc
+LayersSetName=Top_Bot_Plated_Thru_Holes|DrillFile=raspi_hat_temp-plated.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_NonPlated_Thru_Holes|DrillFile=raspi_hat_temp-nonplated.txt|DrillLayers=gtl,gbl

@@ -1,0 +1,213 @@
+Change Component Comment : Designator=* Old Comment=Component_1 New Comment=FDS7760A
+Change Component Comment : Designator=* Old Comment=Component_1 New Comment=LT1871-1
+Change Component Designator: OldDesignator=* NewDesignator=M1
+Change Component Designator: OldDesignator=* NewDesignator=U1
+Added Component: Designator=C1(SMD-0805C)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "@ qty"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Applications"; Value = "Automotive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheets"; Value = "http://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GC321AD72E103KX01-01.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "490-13986-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Factory Stock"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height - Seated (Max)"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Image"; Value = "//media.digikey.com/Renders/Murata%20Renders/0805(GC3)200x125.jpg"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Spacing"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Style"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics North America"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Surface Mount, MLCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0805 (2012 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GC321AD72E103KX01D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Quantity Available"; Value = "4000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ratings"; Value = "AEC-Q200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "GC3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "0.079" L x 0.049" W (2.00mm x 1.25mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "X7T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Thickness (Max)"; Value = "0.039" (1.00mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Unit Price (USD)"; Value = "0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "47pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "250V"; VariantName = "[No Variations]"
+Added Component: Designator=C2(SMD-0603C)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "@ qty"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Applications"; Value = "Automotive, Boardflex Sensitive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheets"; Value = "http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c03e.ashx"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "490-5796-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Factory Stock"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "Soft Termination"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height - Seated (Max)"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Image"; Value = "//media.digikey.com/Renders/Murata%20Renders/0603%28LQG18%29.jpg"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Spacing"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Style"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics North America"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Surface Mount, MLCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0603 (1608 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GCJ188R71C104KA01D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Quantity Available"; Value = "22473"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ratings"; Value = "AEC-Q200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "GCJ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "0.063" L x 0.031" W (1.60mm x 0.80mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Thickness (Max)"; Value = "0.035" (0.90mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Unit Price (USD)"; Value = "0.21"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "6.8nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=Cin1(TPSA226K006T0300)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "VALUE"; Value = "100uF"; VariantName = "[No Variations]"
+Added Component: Designator=Cout1(EEF-CX0J151R)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "VALUE"; Value = "150uF"; VariantName = "[No Variations]"
+Added Component: Designator=Cout2(EEF-CX0J151R)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "VALUE"; Value = "150uF"; VariantName = "[No Variations]"
+Added Component: Designator=Cout3(EEF-CX0J151R)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "VALUE"; Value = "150uF"; VariantName = "[No Variations]"
+Added Component: Designator=Cout4(EEF-CX0J151R)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "VALUE"; Value = "150uF"; VariantName = "[No Variations]"
+Added Component: Designator=Cout5(PCBComponent_1)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "VALUE"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=Cout6(PCBComponent_1)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "VALUE"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=Cvcc(SMD-0805C)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "@ qty"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Applications"; Value = "Automotive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheets"; Value = "http://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GC321AD72E103KX01-01.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "490-13986-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Factory Stock"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height - Seated (Max)"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Image"; Value = "//media.digikey.com/Renders/Murata%20Renders/0805(GC3)200x125.jpg"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Spacing"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Style"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics North America"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Surface Mount, MLCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0805 (2012 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GC321AD72E103KX01D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Quantity Available"; Value = "4000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ratings"; Value = "AEC-Q200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "GC3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "0.079" L x 0.049" W (2.00mm x 1.25mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Thickness (Max)"; Value = "0.039" (1.00mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Unit Price (USD)"; Value = "0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "250V"; VariantName = "[No Variations]"
+Added Component: Designator=D1(MBRB2515L)
+Add component. Clean all parameters for all variants
+Added Component: Designator=L1(PCBComponent_1)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "VALUE"; Value = "1uH"; VariantName = "[No Variations]"
+Added Component: Designator=R1(Resistor_0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = ""; Value = "10K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "22K"; VariantName = "[No Variations]"
+Added Component: Designator=R2(Resistor_0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = ""; Value = "10K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "37.4K"; VariantName = "[No Variations]"
+Added Component: Designator=R3(Resistor_0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = ""; Value = "10K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "12K"; VariantName = "[No Variations]"
+Added Component: Designator=RT1(Resistor_0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = ""; Value = "10K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "80.6K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GND Pin=Cin1-2
+Added Pin To Net: NetName=GND Pin=Cout1-1
+Added Pin To Net: NetName=5V Pin=Cout1-2
+Added Pin To Net: NetName=GND Pin=Cout2-1
+Added Pin To Net: NetName=5V Pin=Cout2-2
+Added Pin To Net: NetName=GND Pin=Cout3-1
+Added Pin To Net: NetName=5V Pin=Cout3-2
+Added Pin To Net: NetName=GND Pin=Cout4-1
+Added Pin To Net: NetName=5V Pin=Cout4-2
+Added Pin To Net: NetName=GND Pin=Cout5-1
+Added Pin To Net: NetName=5V Pin=Cout5-2
+Added Pin To Net: NetName=GND Pin=Cout6-1
+Added Pin To Net: NetName=5V Pin=Cout6-2
+Added Pin To Net: NetName=5V Pin=Cvcc-1
+Added Pin To Net: NetName=GND Pin=Cvcc-2
+Added Pin To Net: NetName=5V Pin=D1-4
+Added Pin To Net: NetName=GND Pin=M1-1
+Added Pin To Net: NetName=GND Pin=M1-2
+Added Pin To Net: NetName=GND Pin=M1-3
+Added Pin To Net: NetName=5V Pin=R2-1
+Added Pin To Net: NetName=GND Pin=R3-1
+Added Pin To Net: NetName=GND Pin=RT1-1
+Added Pin To Net: NetName=5V Pin=U1-5
+Added Pin To Net: NetName=GND Pin=U1-6
+Added Pin To Net: NetName=5V Pin=U1-8
+Added Pin To Net: NetName=5V Pin=U1-9
+Change Net Name : Old Net Name=5V New Net Name=V
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=NetC1_1 Pin=R1-2
+Added Pin To Net: NetName=NetC1_1 Pin=U1-2
+Added Net: Name=NetC1_1
+Added Pin To Net: NetName=NetC2_1 Pin=C2-1
+Added Pin To Net: NetName=NetC2_1 Pin=R1-1
+Added Net: Name=NetC2_1
+Added Pin To Net: NetName=NetD1_3 Pin=D1-3
+Added Pin To Net: NetName=NetD1_3 Pin=D1-3
+Added Pin To Net: NetName=NetD1_3 Pin=L1-1
+Added Pin To Net: NetName=NetD1_3 Pin=M1-5
+Added Pin To Net: NetName=NetD1_3 Pin=M1-6
+Added Pin To Net: NetName=NetD1_3 Pin=M1-7
+Added Pin To Net: NetName=NetD1_3 Pin=M1-8
+Added Pin To Net: NetName=NetD1_3 Pin=U1-10
+Added Net: Name=NetD1_3
+Added Pin To Net: NetName=NetM1_4 Pin=M1-4
+Added Pin To Net: NetName=NetM1_4 Pin=U1-7
+Added Net: Name=NetM1_4
+Added Pin To Net: NetName=NetR2_2 Pin=R2-2
+Added Pin To Net: NetName=NetR2_2 Pin=R3-2
+Added Pin To Net: NetName=NetR2_2 Pin=U1-3
+Added Net: Name=NetR2_2
+Added Pin To Net: NetName=NetRT1_2 Pin=RT1-2
+Added Pin To Net: NetName=NetRT1_2 Pin=U1-4
+Added Net: Name=NetRT1_2
+Added Pin To Net: NetName=VIN Pin=Cin1-1
+Added Pin To Net: NetName=VIN Pin=L1-2
+Added Pin To Net: NetName=VIN Pin=U1-1
+Added Net: Name=VIN
+Added Member To Class: ClassName=RasPi_Hat_Temp Member=Component C1 47pF
+Added Member To Class: ClassName=RasPi_Hat_Temp Member=Component C2 6.8nF
+Added Member To Class: ClassName=RasPi_Hat_Temp Member=Component Cin1 100uF
+Added Member To Class: ClassName=RasPi_Hat_Temp Member=Component Cout1 150uF
+Added Member To Class: ClassName=RasPi_Hat_Temp Member=Component Cout2 150uF
+Added Member To Class: ClassName=RasPi_Hat_Temp Member=Component Cout3 150uF
+Added Member To Class: ClassName=RasPi_Hat_Temp Member=Component Cout4 150uF
+Added Member To Class: ClassName=RasPi_Hat_Temp Member=Component Cout5 22uF
+Added Member To Class: ClassName=RasPi_Hat_Temp Member=Component Cout6 22uF
+Added Member To Class: ClassName=RasPi_Hat_Temp Member=Component Cvcc 4.7uF
+Added Member To Class: ClassName=RasPi_Hat_Temp Member=Component D1 MBRB2515L
+Added Member To Class: ClassName=RasPi_Hat_Temp Member=Component L1 1uH
+Added Member To Class: ClassName=RasPi_Hat_Temp Member=Component R1 22K
+Added Member To Class: ClassName=RasPi_Hat_Temp Member=Component R2 37.4K
+Added Member To Class: ClassName=RasPi_Hat_Temp Member=Component R3 12K
+Added Member To Class: ClassName=RasPi_Hat_Temp Member=Component RT1 80.6K
+Added Member To Class: ClassName=RasPi_Hat_Temp Member=Component U1 LT1871-1
+Added Room: Name=RasPi_Hat_Temp

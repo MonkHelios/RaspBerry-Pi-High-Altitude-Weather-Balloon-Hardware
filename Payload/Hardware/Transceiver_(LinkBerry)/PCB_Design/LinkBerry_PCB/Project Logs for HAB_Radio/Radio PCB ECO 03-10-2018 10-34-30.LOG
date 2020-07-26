@@ -1,0 +1,6 @@
+Change Component Comment : Designator=TG-5006CJ Old Comment=40MHz TCXO New Comment=TG-5006CJ
+Change Component Comment : Designator=U4 Old Comment=B3760 New Comment=B3760_saw_filter
+Change Component Comment : Designator=U6 Old Comment=LT1587 New Comment=Component_1
+Change Component Designator: OldDesignator=TG-5006CJ NewDesignator=U7
+Added Member To Class: ClassName=Radio Member=Component U1 CC1125
+Added Room: Name=Radio

@@ -1,0 +1,4 @@
+Added Component: Designator=*(LTC1871-1)
+Add component. Clean all parameters for all variants
+Added Class: Name=RasPi_Hat_Temp
+Added Room: Name=RasPi_Hat_Temp

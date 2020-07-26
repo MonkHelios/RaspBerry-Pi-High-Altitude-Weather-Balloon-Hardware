@@ -1,0 +1,5 @@
+Added Component: Designator=U1(CC1125 QFN)
+Add component. Clean all parameters for all variants
+Change Class Name : Old Net Name=HAB_Radio New Net Name=Radio
+Added Member To Class: ClassName=Radio Member=Component U1 CC1125
+Added Room: Name=Radio

@@ -1,0 +1,6 @@
+Change Component Description : Designator=C33 Old Description=CAP CER 0.1UF 16V X7R 0603 New Description=CAP CER 1UF 16V X7R 0603
+Change Component Description : Designator=C34 Old Description=CAP CER 0.1UF 16V X7R 0603 New Description=CAP CER 1UF 16V X7R 0603
+Change Component Description : Designator=C16 Old Description=CAP CER 1UF 10V X7S 0402 New Description=CAP CER 1.8nF 10V X7S 0402
+Added Pin To Net: NetName=GP2 Pin=P1-3
+Added Pin To Net: NetName=GP0 Pin=P1-4
+Added Room: Name=Radio

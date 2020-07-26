@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=GP2 Pin=R1-2
+Removed Pin From Net: NetName=GP0 Pin=R2-2
+Removed Pin From Net: NetName=12 Pin=Shoreline_Header-12
+Removed Pin From Net: NetName=16 Pin=Shoreline_Header-16
+Removed Pin From Net: NetName=GP0 Pin=U3-2
+Removed Pin From Net: NetName=GP2 Pin=U3-4
+Added Pin To Net: NetName=BYP Pin=R1-2
+Added Pin To Net: NetName=BYP Pin=Shoreline_Header-12
+Added Pin To Net: NetName=BYP Pin=U3-4
+Added Net: Name=BYP
+Added Pin To Net: NetName=TR Pin=R2-2
+Added Pin To Net: NetName=TR Pin=Shoreline_Header-16
+Added Pin To Net: NetName=TR Pin=U3-2
+Added Net: Name=TR

@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=NetL9_2 Pin=U3-10
+Removed Pin From Net: NetName=NetL8_1 Pin=U3-13
+Removed Pin From Net: NetName=NetL9_1 Pin=U4-2
+Removed Pin From Net: NetName=NetL8_2 Pin=U4-5
+Change Component Footprint: Designator=L8 Old Footprint=0402-A New Footprint=LQW15AN80
+Change Component Footprint: Designator=L9 Old Footprint=0402-A New Footprint=LQW15AN80
+Change Component Comment : Designator=L8 Old Comment=Inductor New Comment=Component_1
+Change Component Comment : Designator=L9 Old Comment=Inductor New Comment=Component_1
+Change component parameters: Designator = "L8"; Footprint = "LQW15AN80"; UniqueID = "\FCKPGRJP"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = ""; Value = "33nH"; VariantName = "[No Variations]"
+Change component parameters: Designator = "L9"; Footprint = "LQW15AN80"; UniqueID = "\WPFROQKB"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = ""; Value = "33nH"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetL8_1 Pin=U3-10
+Added Pin To Net: NetName=NetL9_2 Pin=U3-13
+Added Pin To Net: NetName=NetL8_2 Pin=U4-2
+Added Pin To Net: NetName=NetL9_1 Pin=U4-5

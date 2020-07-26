@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: X:\Aditya_Mukherjee\electronics\projects\EarthSat\Linkberry1.0\PCB_Doc\HAB_Radio\PCB_Project\Radio.PcbDoc
+LayersSetName=Top_Bot_Plated_Thru_Holes|DrillFile=radio-plated.txt|DrillLayers=gtl,gp1,gp2,gbl
+LayersSetName=Top_Bot_NonPlated_Thru_Holes|DrillFile=radio-nonplated.txt|DrillLayers=gtl,gp1,gp2,gbl

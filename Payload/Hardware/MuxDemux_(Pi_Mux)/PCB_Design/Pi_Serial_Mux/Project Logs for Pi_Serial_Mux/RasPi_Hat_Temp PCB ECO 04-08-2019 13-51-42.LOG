@@ -1,0 +1,20 @@
+Added Pin To Net: NetName=GND Pin=IC1-5
+Added Pin To Net: NetName=GPS_RX Pin=GPS_Header-8
+Added Pin To Net: NetName=GPS_RX Pin=IC1-2
+Added Net: Name=GPS_RX
+Added Pin To Net: NetName=GPS_TX Pin=GPS_Header-10
+Added Pin To Net: NetName=GPS_TX Pin=IC1-8
+Added Net: Name=GPS_TX
+Added Pin To Net: NetName=GSM_RX Pin=GSM_Header-8
+Added Pin To Net: NetName=GSM_RX Pin=IC1-3
+Added Net: Name=GSM_RX
+Added Pin To Net: NetName=GSM_TX Pin=GSM_Header-10
+Added Pin To Net: NetName=GSM_TX Pin=IC1-7
+Added Net: Name=GSM_TX
+Added Pin To Net: NetName=Pi_RX Pin=IC1-6
+Added Pin To Net: NetName=Pi_RX Pin=Pi_Header-10
+Added Net: Name=Pi_RX
+Added Pin To Net: NetName=Pi_TX Pin=IC1-4
+Added Pin To Net: NetName=Pi_TX Pin=Pi_Header-8
+Added Net: Name=Pi_TX
+Added Room: Name=RasPi_Hat_Temp

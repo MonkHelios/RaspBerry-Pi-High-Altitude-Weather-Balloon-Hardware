@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=GND Pin=U1-33
+Added Component: Designator=*(balun)
+Add component. Clean all parameters for all variants
+Added Member To Class: ClassName=Radio Member=Component * Component_1
+Added Room: Name=Radio

@@ -1,0 +1,14 @@
+Added Component: Designator=Cin2(PCBComponent_1)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://static6.arrow.com/aropdfconversion/969551eb4a54b293fd48e6844049b731656557b5/e)multilayer%20ceramic%20capacitor.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "TAIYO YUDEN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "JMK325BJ226MM-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "963-JMK325BJ226MM-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=963-JMK325BJ226MM-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "22uF"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=Cin2-1
+Added Pin To Net: NetName=VIN Pin=Cin2-2
+Added Member To Class: ClassName=RasPi_Hat_Temp Member=Component Cin2 22uF

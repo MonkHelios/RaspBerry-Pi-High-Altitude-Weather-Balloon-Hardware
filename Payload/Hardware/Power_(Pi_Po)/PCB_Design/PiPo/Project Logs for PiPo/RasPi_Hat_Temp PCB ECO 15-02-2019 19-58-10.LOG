@@ -1,0 +1,3 @@
+Added Component: Designator=*(FDS7760A)
+Add component. Clean all parameters for all variants
+Added Member To Class: ClassName=RasPi_Hat_Temp Member=Component * Component_1

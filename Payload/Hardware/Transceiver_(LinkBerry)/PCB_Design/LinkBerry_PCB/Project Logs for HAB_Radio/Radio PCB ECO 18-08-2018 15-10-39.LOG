@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=5V Pin=C1-1
+Removed Pin From Net: NetName=GND Pin=U1-33
+Removed Pin From Net: NetName=5V Pin=U2-6
+Added Component: Designator=PWR(HDR2X2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=U?(PCBComponent_1)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=PWR-1
+Added Pin To Net: NetName=GND Pin=PWR-3
+Change Net Color : Old Net Color=RGB(218, 36, 103) New Net Color=Default
+Change Net Color : Old Net Color=RGB(17, 3, 127) New Net Color=Default
+Added Pin To Net: NetName=3V7 Pin=C1-1
+Added Pin To Net: NetName=3V7 Pin=PWR-2
+Added Pin To Net: NetName=3V7 Pin=PWR-4
+Added Pin To Net: NetName=3V7 Pin=U2-6
+Added Net: Name=3V7
+Added Member To Class: ClassName=Radio Member=Component PWR Header 2X2
+Added Member To Class: ClassName=Radio Member=Component U? RFFM6403
+Added Room: Name=Radio

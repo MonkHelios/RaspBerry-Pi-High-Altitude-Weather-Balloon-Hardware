@@ -1,0 +1,193 @@
+Added Component: Designator=C1(SMD-0402C)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "@ qty"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Applications"; Value = "Automotive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheets"; Value = "http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c03e.ashx"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "490-13409-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Factory Stock"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height - Seated (Max)"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Image"; Value = "//media.digikey.com/Renders/Murata%20Renders/ZRB-SERIES-0402.jpg"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Spacing"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Style"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics North America"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Surface Mount, MLCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0402 (1005 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GCM155C71A105KE38D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Quantity Available"; Value = "7240"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ratings"; Value = "AEC-Q200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "GCM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "0.039" L x 0.020" W (1.00mm x 0.50mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "X7S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Thickness (Max)"; Value = "0.022" (0.55mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Unit Price (USD)"; Value = "0.12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "10V"; VariantName = "[No Variations]"
+Added Component: Designator=GPS_Header(HDR2X20)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=GSM_Header(HDR2X20)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=IC1(SOP50P490X110-10N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.renesas.com/kr/en/www/doc/datasheet/isl54220.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Renesas / Intersil"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ISL54220IUZ-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "968-ISL54220IUZ-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=968-ISL54220IUZ-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Pi_Header(HDR2X20)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=5V Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=3V3 Pin=GPS_Header-1
+Added Pin To Net: NetName=5V Pin=GPS_Header-2
+Added Pin To Net: NetName=3 Pin=GPS_Header-3
+Added Pin To Net: NetName=5V Pin=GPS_Header-4
+Added Pin To Net: NetName=5 Pin=GPS_Header-5
+Added Pin To Net: NetName=GND Pin=GPS_Header-6
+Added Pin To Net: NetName=7 Pin=GPS_Header-7
+Added Pin To Net: NetName=GPS_RX Pin=GPS_Header-8
+Added Pin To Net: NetName=GND Pin=GPS_Header-9
+Added Pin To Net: NetName=GPS_TX Pin=GPS_Header-10
+Added Pin To Net: NetName=11 Pin=GPS_Header-11
+Added Pin To Net: NetName=12 Pin=GPS_Header-12
+Added Pin To Net: NetName=13 Pin=GPS_Header-13
+Added Pin To Net: NetName=GND Pin=GPS_Header-14
+Added Pin To Net: NetName=15 Pin=GPS_Header-15
+Added Pin To Net: NetName=16 Pin=GPS_Header-16
+Added Pin To Net: NetName=3V3 Pin=GPS_Header-17
+Added Pin To Net: NetName=18 Pin=GPS_Header-18
+Added Pin To Net: NetName=19 Pin=GPS_Header-19
+Added Pin To Net: NetName=GND Pin=GPS_Header-20
+Added Pin To Net: NetName=21 Pin=GPS_Header-21
+Added Pin To Net: NetName=22 Pin=GPS_Header-22
+Added Pin To Net: NetName=23 Pin=GPS_Header-23
+Added Pin To Net: NetName=24 Pin=GPS_Header-24
+Added Pin To Net: NetName=GND Pin=GPS_Header-25
+Added Pin To Net: NetName=26 Pin=GPS_Header-26
+Added Pin To Net: NetName=27 Pin=GPS_Header-27
+Added Pin To Net: NetName=28 Pin=GPS_Header-28
+Added Pin To Net: NetName=29 Pin=GPS_Header-29
+Added Pin To Net: NetName=GND Pin=GPS_Header-30
+Added Pin To Net: NetName=31 Pin=GPS_Header-31
+Added Pin To Net: NetName=32 Pin=GPS_Header-32
+Added Pin To Net: NetName=33 Pin=GPS_Header-33
+Added Pin To Net: NetName=GND Pin=GPS_Header-34
+Added Pin To Net: NetName=35 Pin=GPS_Header-35
+Added Pin To Net: NetName=36 Pin=GPS_Header-36
+Added Pin To Net: NetName=37 Pin=GPS_Header-37
+Added Pin To Net: NetName=38 Pin=GPS_Header-38
+Added Pin To Net: NetName=GND Pin=GPS_Header-39
+Added Pin To Net: NetName=40 Pin=GPS_Header-40
+Added Pin To Net: NetName=3V3 Pin=GSM_Header-1
+Added Pin To Net: NetName=5V Pin=GSM_Header-2
+Added Pin To Net: NetName=3 Pin=GSM_Header-3
+Added Pin To Net: NetName=5V Pin=GSM_Header-4
+Added Pin To Net: NetName=5 Pin=GSM_Header-5
+Added Pin To Net: NetName=GND Pin=GSM_Header-6
+Added Pin To Net: NetName=7 Pin=GSM_Header-7
+Added Pin To Net: NetName=GSM_RX Pin=GSM_Header-8
+Added Pin To Net: NetName=GND Pin=GSM_Header-9
+Added Pin To Net: NetName=GSM_TX Pin=GSM_Header-10
+Added Pin To Net: NetName=11 Pin=GSM_Header-11
+Added Pin To Net: NetName=12 Pin=GSM_Header-12
+Added Pin To Net: NetName=13 Pin=GSM_Header-13
+Added Pin To Net: NetName=GND Pin=GSM_Header-14
+Added Pin To Net: NetName=15 Pin=GSM_Header-15
+Added Pin To Net: NetName=16 Pin=GSM_Header-16
+Added Pin To Net: NetName=3V3 Pin=GSM_Header-17
+Added Pin To Net: NetName=18 Pin=GSM_Header-18
+Added Pin To Net: NetName=19 Pin=GSM_Header-19
+Added Pin To Net: NetName=GND Pin=GSM_Header-20
+Added Pin To Net: NetName=21 Pin=GSM_Header-21
+Added Pin To Net: NetName=22 Pin=GSM_Header-22
+Added Pin To Net: NetName=23 Pin=GSM_Header-23
+Added Pin To Net: NetName=24 Pin=GSM_Header-24
+Added Pin To Net: NetName=GND Pin=GSM_Header-25
+Added Pin To Net: NetName=26 Pin=GSM_Header-26
+Added Pin To Net: NetName=27 Pin=GSM_Header-27
+Added Pin To Net: NetName=28 Pin=GSM_Header-28
+Added Pin To Net: NetName=29 Pin=GSM_Header-29
+Added Pin To Net: NetName=GND Pin=GSM_Header-30
+Added Pin To Net: NetName=31 Pin=GSM_Header-31
+Added Pin To Net: NetName=32 Pin=GSM_Header-32
+Added Pin To Net: NetName=33 Pin=GSM_Header-33
+Added Pin To Net: NetName=GND Pin=GSM_Header-34
+Added Pin To Net: NetName=35 Pin=GSM_Header-35
+Added Pin To Net: NetName=36 Pin=GSM_Header-36
+Added Pin To Net: NetName=37 Pin=GSM_Header-37
+Added Pin To Net: NetName=38 Pin=GSM_Header-38
+Added Pin To Net: NetName=GND Pin=GSM_Header-39
+Added Pin To Net: NetName=40 Pin=GSM_Header-40
+Added Pin To Net: NetName=18 Pin=IC1-1
+Added Pin To Net: NetName=GPS_RX Pin=IC1-2
+Added Pin To Net: NetName=GSM_RX Pin=IC1-3
+Added Pin To Net: NetName=Pi_TX Pin=IC1-4
+Added Pin To Net: NetName=GND Pin=IC1-5
+Added Pin To Net: NetName=Pi_RX Pin=IC1-6
+Added Pin To Net: NetName=GSM_TX Pin=IC1-7
+Added Pin To Net: NetName=GPS_TX Pin=IC1-8
+Added Pin To Net: NetName=GND Pin=IC1-9
+Added Pin To Net: NetName=5V Pin=IC1-10
+Added Pin To Net: NetName=3V3 Pin=Pi_Header-1
+Added Pin To Net: NetName=5V Pin=Pi_Header-2
+Added Pin To Net: NetName=3 Pin=Pi_Header-3
+Added Pin To Net: NetName=5V Pin=Pi_Header-4
+Added Pin To Net: NetName=5 Pin=Pi_Header-5
+Added Pin To Net: NetName=GND Pin=Pi_Header-6
+Added Pin To Net: NetName=7 Pin=Pi_Header-7
+Added Pin To Net: NetName=Pi_TX Pin=Pi_Header-8
+Added Pin To Net: NetName=GND Pin=Pi_Header-9
+Added Pin To Net: NetName=Pi_RX Pin=Pi_Header-10
+Added Pin To Net: NetName=11 Pin=Pi_Header-11
+Added Pin To Net: NetName=12 Pin=Pi_Header-12
+Added Pin To Net: NetName=13 Pin=Pi_Header-13
+Added Pin To Net: NetName=GND Pin=Pi_Header-14
+Added Pin To Net: NetName=15 Pin=Pi_Header-15
+Added Pin To Net: NetName=16 Pin=Pi_Header-16
+Added Pin To Net: NetName=3V3 Pin=Pi_Header-17
+Added Pin To Net: NetName=18 Pin=Pi_Header-18
+Added Pin To Net: NetName=19 Pin=Pi_Header-19
+Added Pin To Net: NetName=GND Pin=Pi_Header-20
+Added Pin To Net: NetName=21 Pin=Pi_Header-21
+Added Pin To Net: NetName=22 Pin=Pi_Header-22
+Added Pin To Net: NetName=23 Pin=Pi_Header-23
+Added Pin To Net: NetName=24 Pin=Pi_Header-24
+Added Pin To Net: NetName=GND Pin=Pi_Header-25
+Added Pin To Net: NetName=26 Pin=Pi_Header-26
+Added Pin To Net: NetName=27 Pin=Pi_Header-27
+Added Pin To Net: NetName=28 Pin=Pi_Header-28
+Added Pin To Net: NetName=29 Pin=Pi_Header-29
+Added Pin To Net: NetName=GND Pin=Pi_Header-30
+Added Pin To Net: NetName=31 Pin=Pi_Header-31
+Added Pin To Net: NetName=32 Pin=Pi_Header-32
+Added Pin To Net: NetName=33 Pin=Pi_Header-33
+Added Pin To Net: NetName=GND Pin=Pi_Header-34
+Added Pin To Net: NetName=35 Pin=Pi_Header-35
+Added Pin To Net: NetName=36 Pin=Pi_Header-36
+Added Pin To Net: NetName=37 Pin=Pi_Header-37
+Added Pin To Net: NetName=38 Pin=Pi_Header-38
+Added Pin To Net: NetName=GND Pin=Pi_Header-39
+Added Pin To Net: NetName=40 Pin=Pi_Header-40
+Added Member To Class: ClassName=RasPi_Hat_Temp Member=Component C1 100nF
+Added Member To Class: ClassName=RasPi_Hat_Temp Member=Component GPS_Header Header 20X2
+Added Member To Class: ClassName=RasPi_Hat_Temp Member=Component GSM_Header Header 20X2
+Added Member To Class: ClassName=RasPi_Hat_Temp Member=Component IC1 ISL54220IUZ-T
+Added Member To Class: ClassName=RasPi_Hat_Temp Member=Component Pi_Header Header 20X2
+Added Room: Name=RasPi_Hat_Temp

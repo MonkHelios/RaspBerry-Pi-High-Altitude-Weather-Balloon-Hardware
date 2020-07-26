@@ -1,0 +1,5 @@
+temperature - stack, battery, ambient_in, ambient_out.
+humidity - ambient_in, ambient_out.
+gyro - on_board.
+accel - on_board.
+pressure(altitude) - on_board.

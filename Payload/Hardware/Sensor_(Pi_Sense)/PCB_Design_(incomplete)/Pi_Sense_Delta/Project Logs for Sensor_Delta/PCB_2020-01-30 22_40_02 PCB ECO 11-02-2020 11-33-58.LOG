@@ -1,0 +1,100 @@
+Removed Pin From Net: NetName=GND Pin=U1-1
+Removed Pin From Net: NetName=+5V Pin=U1-3
+Removed Pin From Net: NetName=VCC Pin=U1-4
+Change component parameters: Designator = "C1"; Footprint = "1206"; UniqueID = "\ARJYRDOG"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM_Manufacturer Part"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "nameAlias"; Value = "Value(F)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spicePre"; Value = "C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spiceSymbolName"; Value = "Cap_1206_US"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C1_LOW_ESR"; Footprint = "1206"; UniqueID = "\SQTNVQXE"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM_Manufacturer Part"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "nameAlias"; Value = "Value(F)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spicePre"; Value = "C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spiceSymbolName"; Value = "Cap_1206_US"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C2"; Footprint = "1206"; UniqueID = "\XHPDYDCJ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM_Manufacturer Part"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "nameAlias"; Value = "Value(F)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spicePre"; Value = "C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spiceSymbolName"; Value = "Cap_1206_US"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C3"; Footprint = "1206"; UniqueID = "\YQMDUOEL"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM_Manufacturer Part"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "nameAlias"; Value = "Value(F)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spicePre"; Value = "C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spiceSymbolName"; Value = "Cap_1206_US"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C4"; Footprint = "1206"; UniqueID = "\MSDHPSUV"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM_Manufacturer Part"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "nameAlias"; Value = "Value(F)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spicePre"; Value = "C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spiceSymbolName"; Value = "Cap_1206_US"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C5"; Footprint = "1206"; UniqueID = "\TYLFBBKJ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM_Manufacturer Part"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "nameAlias"; Value = "Value(F)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spicePre"; Value = "C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spiceSymbolName"; Value = "Cap_1206_US"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C6"; Footprint = "1206"; UniqueID = "\LOBCWQPV"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM_Manufacturer Part"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "nameAlias"; Value = "Value(F)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spicePre"; Value = "C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spiceSymbolName"; Value = "Cap_1206_US"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R1"; Footprint = "0201"; UniqueID = "\AKTIIPEQ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM_Manufacturer Part"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "nameAlias"; Value = "Value(O)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spicePre"; Value = "R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spiceSymbolName"; Value = "Res_0201(1/20W)_US"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R2"; Footprint = "0201"; UniqueID = "\WLBCJDUL"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM_Manufacturer Part"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "nameAlias"; Value = "Value(O)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spicePre"; Value = "R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spiceSymbolName"; Value = "Res_0201(1/20W)_US"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R3"; Footprint = "1206"; UniqueID = "\YCJVMWKC"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM_Manufacturer Part"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "nameAlias"; Value = "Value(O)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spicePre"; Value = "R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spiceSymbolName"; Value = "Res_1206(1/4W)_US"; VariantName = "[No Variations]"
+Change component parameters: Designator = "HUMIDTY_TEMP"; Footprint = "HDC1080DMBR_V2"; UniqueID = "\OHXSGRUC"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM_Manufacturer"; Value = "TI"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Manufacturer Part"; Value = "HDC1080DMBR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier Part"; Value = "C82227"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contributor"; Value = "fan4dry4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spicePre"; Value = "S"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spiceSymbolName"; Value = "HDC1080DMBR"; VariantName = "[No Variations]"
+Change component parameters: Designator = "IMU"; Footprint = "LGA-24L(3X3.5X1MM)"; UniqueID = "\GHULQMHD"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM_Manufacturer"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Manufacturer Part"; Value = "LSM9DS1TR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier Part"; Value = "511-LSM9DS1TR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contributor"; Value = "Mark Foster"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spicePre"; Value = "U"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spiceSymbolName"; Value = "LSM9DS1TR"; VariantName = "[No Variations]"
+Change component parameters: Designator = "BAROMETER"; Footprint = "HLGA-10"; UniqueID = "\XTOATJMD"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM_Manufacturer Part"; Value = "LPS22HB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier"; Value = "www.arrow.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier Part"; Value = "LPS22HBTR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contributor"; Value = "ryanjohnston4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "link"; Value = "http://www.st.com/content/ccc/resource/technical/document/datasheet/bf/c1/4f/23/61/17/44/8a/DM00140895.pdf/files/DM00140895.pdf/jcr:content/translations/en.DM00140895.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spicePre"; Value = "U"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spiceSymbolName"; Value = "LPS22HB"; VariantName = "[No Variations]"
+Change Net Name : Old Net Name=BAROMETER_6 New Net Name=NetBAROMETER_6
+Change Net Name : Old Net Name=IMU_7 New Net Name=NetIMU_7
+Change Net Name : Old Net Name=IMU_21 New Net Name=NetC5_2
+Change Net Name : Old Net Name=IMU_24 New Net Name=NetC1_LOW_ESR_2
+Change Net Name : Old Net Name=SCL New Net Name=NetBAROMETER_2
+Change Net Name : Old Net Name=SDA New Net Name=NetBAROMETER_4
+Added Pin To Net: NetName=NetR3_2 Pin=R3-2
+Added Net: Name=NetR3_2
+Added Class: Name=sensor_board
+Added Room: Name=sensor_board

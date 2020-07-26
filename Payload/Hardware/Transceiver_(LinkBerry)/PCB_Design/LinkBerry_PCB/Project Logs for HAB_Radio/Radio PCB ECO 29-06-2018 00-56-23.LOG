@@ -1,0 +1,5 @@
+Change Component Designator: OldDesignator=Q? NewDesignator=Q5
+Change Component Designator: OldDesignator=R? NewDesignator=R9
+Change Component Designator: OldDesignator=R? NewDesignator=R10
+Change Net Name : Old Net Name=NetQ?_1 New Net Name=NetQ5_1
+Added Member To Class: ClassName=Radio Member=Component R9 10K

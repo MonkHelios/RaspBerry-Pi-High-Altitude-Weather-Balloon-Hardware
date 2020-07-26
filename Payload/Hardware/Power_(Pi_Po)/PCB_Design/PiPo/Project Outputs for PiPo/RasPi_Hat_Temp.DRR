@@ -1,0 +1,19 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: RasPi_Hat_Temp.PcbDoc   18-03-2019  14:33:48
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII Plated RoundHoles File : RasPi_Hat_Temp-Plated.TXT
+ASCII Non-Plated RoundHoles File : RasPi_Hat_Temp-NonPlated.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.305mm (12mil)                                           Round             1         PTH        0.00mm (0.00inch)
+T2      0.381mm (15mil)                                           Round             11        PTH        62.95mm (2.48inch)
+T3      0.635mm (25mil)                                           Round             88        PTH        225.16mm (8.86inch)
+T4      0.9mm (35mil)                                             Round             80        PTH        206.34mm (8.12inch)
+T5      2.794mm (110mil)                                          Round             6         NPTH       156.00mm (6.14inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              186
+
+Total Processing Time (hh:mm:ss) : 00:00:01

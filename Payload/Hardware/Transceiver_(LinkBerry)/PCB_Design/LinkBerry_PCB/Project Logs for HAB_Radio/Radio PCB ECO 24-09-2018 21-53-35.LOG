@@ -1,0 +1,8 @@
+Added Pin To Net: NetName=GPIO2 Pin=InLand_Header-13
+Added Pin To Net: NetName=GPIO2 Pin=Shoreline_Header-13
+Change Net Name : Old Net Name=GPIO2 New Net Name=GP2(BP)
+Added Pin To Net: NetName=GP0(TR) Pin=InLand_Header-11
+Added Pin To Net: NetName=GP0(TR) Pin=P1-4
+Added Pin To Net: NetName=GP0(TR) Pin=Shoreline_Header-11
+Added Pin To Net: NetName=GP0(TR) Pin=U1-10
+Added Net: Name=GP0(TR)

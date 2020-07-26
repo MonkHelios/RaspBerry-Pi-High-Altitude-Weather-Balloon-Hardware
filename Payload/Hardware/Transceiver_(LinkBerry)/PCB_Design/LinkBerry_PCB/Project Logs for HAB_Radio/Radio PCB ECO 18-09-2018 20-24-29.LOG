@@ -1,0 +1,4 @@
+Added Component: Designator=U4(PCBComponent_1)
+Add component. Clean all parameters for all variants
+Added Member To Class: ClassName=Radio Member=Component U4 SAW_filter
+Added Room: Name=Radio

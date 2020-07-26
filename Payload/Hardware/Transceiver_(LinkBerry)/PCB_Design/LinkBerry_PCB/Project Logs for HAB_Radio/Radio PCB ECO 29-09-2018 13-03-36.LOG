@@ -1,0 +1,34 @@
+Added Component: Designator=U1(CC1125 QFN)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=VREG Pin=U1-1
+Added Pin To Net: NetName=RSTn_37 Pin=U1-2
+Added Pin To Net: NetName=GP3 Pin=U1-3
+Added Pin To Net: NetName=GP2 Pin=U1-4
+Added Pin To Net: NetName=VREG Pin=U1-5
+Added Pin To Net: NetName=NetC5_2 Pin=U1-6
+Added Pin To Net: NetName=MOSI Pin=U1-7
+Added Pin To Net: NetName=SCK Pin=U1-8
+Added Pin To Net: NetName=MISO Pin=U1-9
+Added Pin To Net: NetName=GP0 Pin=U1-10
+Added Pin To Net: NetName=CSn Pin=U1-11
+Added Pin To Net: NetName=VREG Pin=U1-12
+Added Pin To Net: NetName=VREG Pin=U1-13
+Added Pin To Net: NetName=NetR10_2 Pin=U1-14
+Added Pin To Net: NetName=VREG Pin=U1-15
+Added Pin To Net: NetName=NetC22_1 Pin=U1-17
+Added Pin To Net: NetName=NetC23_2 Pin=U1-18
+Added Pin To Net: NetName=NetC20_1 Pin=U1-19
+Added Pin To Net: NetName=NetC19_1 Pin=U1-20
+Added Pin To Net: NetName=NetC18_2 Pin=U1-21
+Added Pin To Net: NetName=VREG Pin=U1-22
+Added Pin To Net: NetName=NetC16_2 Pin=U1-23
+Added Pin To Net: NetName=NetC16_1 Pin=U1-24
+Added Pin To Net: NetName=VREG Pin=U1-25
+Added Pin To Net: NetName=NetC10_1 Pin=U1-26
+Added Pin To Net: NetName=VREG Pin=U1-27
+Added Pin To Net: NetName=VREG Pin=U1-28
+Added Pin To Net: NetName=NetC13_1 Pin=U1-29
+Added Pin To Net: NetName=GND Pin=U1-30
+Added Pin To Net: NetName=NetC15_1 Pin=U1-32
+Added Pin To Net: NetName=GND Pin=U1-33
+Added Member To Class: ClassName=Radio Member=Component U1 CC1125

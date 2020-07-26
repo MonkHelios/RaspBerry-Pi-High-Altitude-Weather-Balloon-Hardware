@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=VPP Pin=S1-3
+Removed Pin From Net: NetName=VTG Pin=S1-4
+Added Pin To Net: NetName=VTG Pin=S1-3
+Added Pin To Net: NetName=VPP Pin=S1-4

@@ -1,0 +1,36 @@
+Value	Designator	Footprint	Quantity	Datasheets		Mouser No.
+						
+10µF 	C1	SMD-0603C	1	https://www.mouser.in/datasheet/2/281/murata_03052018_GRM_Series_1-1310166.pdf		81-GRM188R60J106KE7D 
+2.2µF	C2	SMD-0603C	1	https://www.mouser.in/datasheet/2/396/mlcc02_e-1307760.pdf		963-EMK107BJ225KA-T 
+47nF	"C3, C4, C6, C7, C8, C9, C10, C11, C12, C13, C17"	SMD-0402C	11	https://www.mouser.in/datasheet/2/281/murata_03052018_GRM_Series_1-1310166.pdf		81-GRM155R61A473JA1D 
+220nF	C5	SMD-0402C	1	https://www.mouser.in/datasheet/2/396/mlcc02_e-1307760.pdf		963-JMK105BJ224KV-F 
+100nF	C14	SMD-0402C	1	https://www.mouser.in/datasheet/2/212/KEM_C1002_X7R_SMD-1102033.pdf		80-C0402C104K8R7867 
+22pF	C15	SMD-0402C	1	https://www.mouser.in/datasheet/2/212/KEM_C1002_X7R_SMD-1102033.pdf		80-C0402C220K5RACTU 
+1.8nF	C16	SMD-0402C	1	https://www.mouser.in/datasheet/2/281/murata_03052018_GRM_Series_1-1310166.pdf		81-GRM155R71H182JA1D 
+10nF	"C18, C27"	SMD-0402C	2	https://www.mouser.in/datasheet/2/212/KEM_C1002_X7R_SMD-1102033.pdf		80-C0402C103K3R7867 
+"5.1p (RF, C0G)"	"C19, C20, C23"	SMD-0402C	3	https://www.mouser.in/datasheet/2/281/murata_03052018_GRM_Series_1-1310166.pdf		81-GRM1555C1H5R1WA1D 
+"6.2p (RF, C0G)"	C25	SMD-0402C	1	https://www.mouser.in/datasheet/2/212/KEM_C1030_CBR_SMD-1101233.pdf		80-CBR04C629B5G 
+"2.2p (RF, C0G)"	C24	SMD-0402C	1	https://www.mouser.in/datasheet/2/212/KEM_C1030_CBR_SMD-1101233.pdf		80-CBR04C229B5G 
+"39p (RF, C0G)"	C22	SMD-0402C	1	https://www.mouser.in/datasheet/2/447/UPY-GP_NP0_16V-to-50V_16-1109089.pdf		603-CC402FRNPO9BN390 
+"56p (RF, C0G)"	C26	SMD-0402C	1	https://www.mouser.in/datasheet/2/447/UPY-GP_NP0_16V-to-50V_16-1109089.pdf		603-CC402GRNPO9BN560 
+"100p (RF, C0G)"	C28	SMD-0402C	1	https://www.mouser.in/datasheet/2/447/UPY-GP_NP0_16V-to-50V_16-1109089.pdf		603-CC402GRNPO9BN101 
+0.1µF	"C29, C35, C36"	SMD-0603C	3	https://www.mouser.in/datasheet/2/212/KEM_C1023_X7R_AUTO_SMD-1093309.pdf		80-C0603C104J4R3190 
+1nF	C30	SMD-0402C	1	https://www.mouser.in/datasheet/2/445/885012205044-611022.pdf		710-885012205044 
+10uF tantalum	"C31, C32"	SMD-1505	2			
+1µF	"C33, C34"	SMD-0603C	2	http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c03e.ashx		
+Header 20X2	"InLand_Header, Shoreline_Header"	HDR2X20	2			
+SMA EDGE	J1	PCBComponent_1	1			
+Component_1	"L1, L3, L4, L5, L6, L8, L9"	LQW15AN80	7			
+Component_1	"L2, L7"	LQW15AW80	2			
+CC DEBUGGER	P1	HDR2X5	1			
+10K	"R1, R2, R11, R12"	2-0402	4			
+ERJ2GE	"R9, R10, R20, R21, R22"	2-0402	5			
+ERA3Y	R15	ERA-0603	1			
+RESET SWITCH	S2	PCBComponent_1	1			
+CC1125	U1	CC1125 QFN	1			
+LP5912	U2	LP5912_WSON	1			
+RFFM6403	U3	PCBComponent_1	1			
+B3760	U4	PCBComponent_1	1			
+TLV803S	U5	SOT95P237X110-3N	1			
+LT1587-3.6	U6	LT1587	1			
+TG-5006CJ	U7	TG-5006CJ	1			

@@ -1,0 +1,60 @@
+Removed Pin From Net: NetName=GND Pin=PWR-1
+Removed Pin From Net: NetName=GND Pin=PWR-3
+Removed Pin From Net: NetName=VREG Pin=U3-3
+Removed Member From Class: ClassName=Radio Member=PWR
+Change Component Comment : Designator=C29 Old Comment=47nF New Comment=220nF
+Change component parameters: Designator = "C29"; Footprint = "SMD-0402C"; UniqueID = "\ASKPEYRR"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "@ qty"; Value = "0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Applications"; Value = "Automotive"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheets"; Value = "http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c03e.ashx"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Digi-Key Part Number"; Value = "490-13409-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Factory Stock"; Value = "0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Features"; Value = "-"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height - Seated (Max)"; Value = "-"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Image"; Value = "//media.digikey.com/Renders/Murata%20Renders/ZRB-SERIES-0402.jpg"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Spacing"; Value = "-"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Style"; Value = "-"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics North America"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Minimum Quantity"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Type"; Value = "Surface Mount, MLCC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "0402 (1005 Metric)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "GCM155C71A105KE38D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Quantity Available"; Value = "7240"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ratings"; Value = "AEC-Q200"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = "GCM"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size / Dimension"; Value = "0.039" L x 0.020" W (1.00mm x 0.50mm)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "X7S"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Thickness (Max)"; Value = "0.022" (0.55mm)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Unit Price (USD)"; Value = "0.12"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "220nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "10V"; VariantName = "[No Variations]"
+Added Component: Designator=C31(PCBComponent_1)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = ""; Value = "10uF"; VariantName = "[No Variations]"
+Added Component: Designator=C32(PCBComponent_1)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = ""; Value = "10uF"; VariantName = "[No Variations]"
+Added Component: Designator=U6(LT1587)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = ""; Value = "LT-1587-3.6"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=5V Pin=C1-1
+Added Pin To Net: NetName=5V Pin=C31-1
+Added Pin To Net: NetName=GND Pin=C31-2
+Added Pin To Net: NetName=GND Pin=C32-2
+Added Pin To Net: NetName=5V Pin=U2-4
+Added Pin To Net: NetName=5V Pin=U2-6
+Added Pin To Net: NetName=GND Pin=U6-1
+Added Pin To Net: NetName=5V Pin=U6-3
+Added Pin To Net: NetName=3V6 Pin=C32-1
+Added Pin To Net: NetName=3V6 Pin=U3-3
+Added Pin To Net: NetName=3V6 Pin=U6-2
+Added Pin To Net: NetName=3V6 Pin=U6-4
+Added Net: Name=3V6
+Added Member To Class: ClassName=Radio Member=Component C31 Component_1
+Added Member To Class: ClassName=Radio Member=Component C32 Component_1
+Added Member To Class: ClassName=Radio Member=Component U6 Component_1

@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=GP2(BP) Pin=P1-3
+Removed Pin From Net: NetName=GP0(TR) Pin=P1-4
+Removed Pin From Net: NetName=VREG Pin=S1-1
+Removed Pin From Net: NetName=VREG Pin=S1-2
+Removed Member From Class: ClassName=Radio Member=S1
+Change Component Comment : Designator=P1 Old Comment=Header 5X2 New Comment=CC DEBUGGER
+Added Pin To Net: NetName=VREG Pin=P1-2
+Change Net Name : Old Net Name=GP0(TR) New Net Name=GP0
+Change Net Name : Old Net Name=GP2(BP) New Net Name=GP2
+Change Net Name : Old Net Name=VREG New Net Name=VTG

@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=GND Pin=Cin2-1
+Removed Pin From Net: NetName=VIN Pin=Cin2-2
+Removed Member From Class: ClassName=RasPi_Hat_Temp Member=Cin2
+Added Component: Designator=Cout7(PCBComponent_1)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "VALUE"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=Cout8(PCBComponent_1)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "VALUE"; Value = "22uF"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=Cout7-1
+Added Pin To Net: NetName=VIN Pin=Cout7-2
+Added Pin To Net: NetName=GND Pin=Cout8-1
+Added Pin To Net: NetName=VIN Pin=Cout8-2
+Added Member To Class: ClassName=RasPi_Hat_Temp Member=Component Cout7 22uF
+Added Member To Class: ClassName=RasPi_Hat_Temp Member=Component Cout8 22uF

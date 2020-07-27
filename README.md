@@ -9,3 +9,5 @@ The hardware of the weather balloon or the payload section is structured as a 6 
 - For telemetry and other communication purposes we are using a CC1125 based RF board.
 - The next stack comprises of a GSM board for non LOS communication at lower altitudes and a GPS board for tracking the balloon and for easy retrieval. Since both of these are using the same serial channel of the Raspberry Pi, multiplexing and demultiplexing were necessary. This was facilitated by a Mux Demux board which had the ability to select a peripheral among the two.
 - Finally on top of the GPS hat we have the sensor hat.
+
+## Power Delivery Board:

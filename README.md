@@ -32,7 +32,7 @@ To run the essential hardware stacks a power delivery system more capable than a
 
 ### 1.3 Assembly:
 
-<img align="left" width="400" src="https://github.com/MonkHelios/RaspBerry-Pi-High-Altitude-Weather-Balloon-Hardware/blob/master/Payload/Hardware/Power_(Pi_Po)/Schematics%2BDesigns/assembly.png">
+<img align="left" width="300" src="https://github.com/MonkHelios/RaspBerry-Pi-High-Altitude-Weather-Balloon-Hardware/blob/master/Payload/Hardware/Power_(Pi_Po)/Schematics%2BDesigns/assembly.png">
 
 **Comments on Revision 1.0 -** Assistance regarding _PCB layout, component placing & the schematic design_ was taken from the corresponding datasheets. Output voltage was as expected, as well as the ability to supply high currents. However, on probing the output with and oscilloscope it was found that the output waveform was quite noisy and had significant switching noise at the frequency of the used DC-DC converter. 
 

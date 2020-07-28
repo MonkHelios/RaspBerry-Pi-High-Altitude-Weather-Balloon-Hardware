@@ -94,6 +94,10 @@ _because component labels are too small for an image here._
 
 <br>
 
+<br>
+
+<br>
+
 ---
 
 ## 3. Multiplexer Board (PiMux):

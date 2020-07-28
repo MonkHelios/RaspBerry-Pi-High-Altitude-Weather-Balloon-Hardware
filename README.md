@@ -58,3 +58,4 @@ _because component labels are too small for an image here._
 
 ### 2.2 Layer Stackup:
 
+<img align="left" width="500" src="https://github.com/MonkHelios/RaspBerry-Pi-High-Altitude-Weather-Balloon-Hardware/blob/master/Payload/Hardware/Transceiver_(LinkBerry)/PCB_Design/Assembly%20output/layer%20stack.png">

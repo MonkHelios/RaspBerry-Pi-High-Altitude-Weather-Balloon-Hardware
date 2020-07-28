@@ -58,7 +58,7 @@ _because component labels are too small for an image here._
 
 ### 2.2 Layer Stackup:
 
-<img align="left" width="500" src="https://github.com/MonkHelios/RaspBerry-Pi-High-Altitude-Weather-Balloon-Hardware/blob/master/Payload/Hardware/Transceiver_(LinkBerry)/PCB_Design/Assembly%20output/layer%20stack.png">
+<img align="right" width="400" src="https://github.com/MonkHelios/RaspBerry-Pi-High-Altitude-Weather-Balloon-Hardware/blob/master/Payload/Hardware/Transceiver_(LinkBerry)/PCB_Design/Assembly%20output/layer%20stack.png">
 
 - Top layer - separated digital and analog signals, most important signals are routed on this layer.
 - Internal plane 1 - GND plane.

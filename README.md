@@ -14,7 +14,7 @@
 
 ---
 
-## 1. Power Delivery Board:
+## 1. Power Delivery Board (PiPo):
 
 To run the essential hardware stacks a power delivery system more capable than a Raspberry Pi's internal power distribution was required. A design of a power distribution stack which could supply a high enough current with stability was adopted. The board was powered with a 3.7V LiIon or LiPo cell, its output was a constant 5V with a maximum allowed current of 7A. Our required peak current was 5A so, a 2A headroom was kept. The design was built around the _**LTC1871-1**_ - a wide input range, current mode, boost, flyback or SEPIC controller that drives an N-channel power MOSFET and requires very few external components.
 
@@ -44,7 +44,7 @@ It was concluded that PCB layout and component placement were the culprits for i
 
 <br>
 
-## 2 Transceiver Board:
+## 2 Transceiver Board (LinkBerry):
 
 For telemetry, real time location update and live image/video feed a point to point long distance RF link was designed and fabricated which is based on _Texas Instrument's_ _**CC1125**_ - a single chip, fully integrated narrow band RF transceiver. Coupled with a front end module (FEM) - _Qorvo's **RFFM6403**_, the board has a maximum output power level of **30dBm**. The FEM has inbuilt selectable power amplifier (PA) for transmission and a low noise amplifier (LNA) for reception. This communication stack acts as a bridge between the Pi's SPI bus and the unguided RF encoded & modulated data. In other words this encodes, modulates & transmits data received over the SPI bus (from the Pi). Also it decodes data received over its RF link and sends it through the SPI bus.
 This is a 4 layer board since this includes mixed signal components, hence, strict PCB layout requirements. Also a thinner dielectric (prepreg) between the 50 Ohm RF traces and the GND plane allows for narrower RF microstrip lines for a given impedance. So, the layer stackup is important to keep in mind while designing.
@@ -82,3 +82,14 @@ _because component labels are too small for an image here._
 <p align="center">
   <img width="400" src="https://github.com/MonkHelios/RaspBerry-Pi-High-Altitude-Weather-Balloon-Hardware/blob/master/Payload/Hardware/Transceiver_(LinkBerry)/PCB_Design/Assembly%20output/mask.jpg">
 </p>
+
+### 2.4 Images:
+
+
+
+---
+
+## 3. Multiplexer Board (PiMux):
+
+This is a rather minimal 2:1 MUX board built around _**ISL54220**_ - a single supply dual 2:1 multiplexer that can operate from a single 2.7V to 5.5V supply. This multiplexes the two serial peripherals - GSM & GPS boards and enables them to be used one at a time on the single serial bus available on the Raspberry Pi. Data rates aren't a bottle neck as this IC was designed for USB purposes (480 Mbps).
+

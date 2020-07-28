@@ -34,8 +34,13 @@ To run the essential hardware stacks a power delivery system more capable than a
 
 <img align="left" width="400" src="https://github.com/MonkHelios/RaspBerry-Pi-High-Altitude-Weather-Balloon-Hardware/blob/master/Payload/Hardware/Power_(Pi_Po)/Schematics%2BDesigns/assembly.png">
 
-**Comments on Revision 1.0 -** Assistance regarding _PCB layout, component placing & the schematic design_ was taken. Output voltage was as expected, as well as the ability to supply high currents. However, on probing the output with and oscilloscope it was found that the output waveform was quite noisy and had significant switching noise at the frequency of the used DC-DC converter. 
+**Comments on Revision 1.0 -** Assistance regarding _PCB layout, component placing & the schematic design_ was taken from the corresponding datasheets. Output voltage was as expected, as well as the ability to supply high currents. However, on probing the output with and oscilloscope it was found that the output waveform was quite noisy and had significant switching noise at the frequency of the used DC-DC converter. 
 
 <br>
 
-It was concluded that the PCB layout and component placement were the culprits for induction of switching noise _(To be addressed in rev 2.0)_. Hence, I would not recommend following the component placement and PCB layout guides present in _**LTC1871-1's**_ datasheet. Instead, Understand the guidelines given and apply common mutual induction principles while designing the output section. 
+It was concluded that PCB layout and component placement were the culprits for induction of switching noise _(To be addressed in rev 2.0)_. Hence, I would not recommend following the component placement and PCB layout guides present in _**LTC1871-1's**_ datasheet. Instead, Understand the guidelines given and apply common mutual induction principles while designing the output section. 
+
+---
+
+## 2 Transceiver Board:
+

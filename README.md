@@ -6,11 +6,11 @@
 
 <img align="right" width="500" src="https://github.com/MonkHelios/RaspBerry-Pi-High-Altitude-Weather-Balloon-Hardware/blob/master/Payload/Pictures/InkedLRM_EXPORT_825743803905478_20190919_195242457_LI.jpg">
 
-- [x] The first layer is a **Raspberry Pi** which manages operation of all other stacks and undertakes necessary processing tasks.
-- [x] To power the entire stack we have a high current DC-DC converter as a **power delivery unit** which accepts 1S LiPo or LiIon batteries as input and outputs a steady 5V and allows a maximum current draw of 7A.
-- [x] For telemetry and other communication purposes we are using a **CC1125 based RF board**.
-- [x] The next stack comprises of a **GSM board** for non LOS communication at lower altitudes and a **GPS board** for tracking the balloon and for easy retrieval. Since both of these are using the same serial channel of the Raspberry Pi, multiplexing and demultiplexing were necessary. This was facilitated by a **Mux Demux board** which had the ability to select one peripheral among the two.
-- [ ] Finally on top of the GPS hat we have the **sensor hat**.
+- [x] The first layer is a _**Raspberry Pi**_ which manages operation of all other stacks and undertakes necessary processing tasks.
+- [x] To power the entire stack we have a high current DC-DC converter as a _**power delivery unit**_ which accepts 1S LiPo or LiIon batteries as input and outputs a steady 5V and allows a maximum current draw of 7A.
+- [x] For telemetry and other communication purposes we are using a _**CC1125 based RF board**_.
+- [x] The next stack comprises of a _**GSM board**_ for non LOS communication at lower altitudes and a _**GPS board**_ for tracking the balloon and for easy retrieval. Since both of these are using the same serial channel of the Raspberry Pi, multiplexing and demultiplexing were necessary. This was facilitated by a _**Mux Demux board**_ which had the ability to select one peripheral among the two.
+- [ ] Finally on top of the GPS hat we have the _**sensor hat**_.
 
 ---
 
@@ -20,13 +20,16 @@ To run the essential hardware stacks a power delivery system more capable than a
 
 ### 1.1 Schematic:
 
-![schematic](https://github.com/MonkHelios/RaspBerry-Pi-High-Altitude-Weather-Balloon-Hardware/blob/master/Payload/Hardware/Power_(Pi_Po)/Schematics%2BDesigns/schematic.png)
+<p align="center">
+  <img width="600" src="https://github.com/MonkHelios/RaspBerry-Pi-High-Altitude-Weather-Balloon-Hardware/blob/master/Payload/Hardware/Power_(Pi_Po)/Schematics%2BDesigns/schematic.png">
+</p>
 
 ### 1.2 Composite:
 
-![composite](https://github.com/MonkHelios/RaspBerry-Pi-High-Altitude-Weather-Balloon-Hardware/blob/master/Payload/Hardware/Power_(Pi_Po)/Schematics%2BDesigns/composite.png)
+<p align="center">
+  <img width="600" src="https://github.com/MonkHelios/RaspBerry-Pi-High-Altitude-Weather-Balloon-Hardware/blob/master/Payload/Hardware/Power_(Pi_Po)/Schematics%2BDesigns/composite.png">
+</p>
 
 ### 1.3 Assembly:
 
-![assembly](https://github.com/MonkHelios/RaspBerry-Pi-High-Altitude-Weather-Balloon-Hardware/blob/master/Payload/Hardware/Power_(Pi_Po)/Schematics%2BDesigns/assembly.png)
-
+<img align="left" width="500" src="https://github.com/MonkHelios/RaspBerry-Pi-High-Altitude-Weather-Balloon-Hardware/blob/master/Payload/Hardware/Power_(Pi_Po)/Schematics%2BDesigns/assembly.png">

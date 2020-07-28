@@ -1,10 +1,6 @@
 # Raspberry Pi powered High Altitude Weather Balloon:
 
-<br>
-
 **The hardware of the weather balloon or the payload section is structured as a six layered stack of Raspberry Pi hats.**
-
-<br>
 
 ---
 

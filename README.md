@@ -11,3 +11,6 @@ The hardware of the weather balloon or the payload section is structured as a 6 
 - Finally on top of the GPS hat we have the sensor hat.
 
 ## Power Delivery Board:
+
+To run the essential hardware stacks a power delivery system more capable than a Raspberry Pi's internal power distribution was required. A design of a power distribution stack which could supply a high enough current with stability was adopted. The board was powered with a 3.7V LiIon or LiPo cell, its output was a constant 5V with a maximum allowed current of 7A. Our required peak current was 5A so we went with a 2A headroom. The design was built around the LTC1871-1 - a wide input range, current mode, boost, flyback or SEPIC controller that drives an N-channel power MOSFET and requires very few external components.
+

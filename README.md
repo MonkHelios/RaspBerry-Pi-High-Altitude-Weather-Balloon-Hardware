@@ -92,6 +92,8 @@ _because component labels are too small for an image here._
 <p align="center">
   <img width="300" src="https://github.com/MonkHelios/RaspBerry-Pi-High-Altitude-Weather-Balloon-Hardware/blob/master/Payload/Pictures/paste_closeup.jpeg">
 
+<br>
+
 ---
 
 ## 3. Multiplexer Board (PiMux):

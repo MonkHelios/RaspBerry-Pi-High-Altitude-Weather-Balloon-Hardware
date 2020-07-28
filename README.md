@@ -1,4 +1,4 @@
-# Raspberry Pi powered High Altitude Weather Balloon:
+# Raspberry Pi Powered High Altitude Weather Balloon:
 
 **The hardware of the weather balloon or the payload section is structured as a six layered stack of Raspberry Pi hats.**
 
@@ -46,3 +46,8 @@ It was concluded that PCB layout and component placement were the culprits for i
 
 ## 2 Transceiver Board:
 
+For telemetry, real time location update and live image/video feed a point to point long distance RF link was designed and fabricated which is based on _Texas Instrument's_ _**CC1125**_ - a single chip, fully integrated narrow band RF transceiver. Coupled with a front end module (FEM) - _Qorvo's **RFFM6403**_, the board has a maximum output power level of **30dBm**. The FEM has inbuilt selectable power amplifier (PA) for transmission and a low noise amplifier (LNA) for reception. This communication stack acts as a bridge between the Pi's SPI bus and the unguided RF encoded & modulated data. In other words this encodes, modulates & transmits data received over the SPI bus (from the Pi). Also it decodes data received over its RF link and sends it through the SPI bus.
+This is a 4 layer board since this includes mixed signal components, hence, strict PCB layout requirements. Also a thinner dielectric (prepreg) between the 50 Ohm RF traces and the GND plane allows for narrower RF microstrip lines for a given impedance. So, the layer stackup is important to keep in mind while designing.
+
+https://github.com/MonkHelios/RaspBerry-Pi-High-Altitude-Weather-Balloon-Hardware/blob/master/Payload/Hardware/Transceiver_(LinkBerry)/PCB_Design/Radio.pdf - automatic!
+[Schematic](https://github.com/MonkHelios/RaspBerry-Pi-High-Altitude-Weather-Balloon-Hardware/blob/master/Payload/Hardware/Transceiver_(LinkBerry)/PCB_Design/Radio.pdf)

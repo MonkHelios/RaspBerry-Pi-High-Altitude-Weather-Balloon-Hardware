@@ -52,4 +52,9 @@ This is a 4 layer board since this includes mixed signal components, hence, stri
 ### 2.1 Schematic:
 
 [Link to PDF](https://github.com/MonkHelios/RaspBerry-Pi-High-Altitude-Weather-Balloon-Hardware/blob/master/Payload/Hardware/Transceiver_(LinkBerry)/PCB_Design/Radio.pdf)
-_Because component labels are too small for an image here._
+_because component labels are too small for an image here._
+
+`CC1125's datasheet followed for 50 Ohm matching`
+
+### 2.2 Layer Stackup:
+

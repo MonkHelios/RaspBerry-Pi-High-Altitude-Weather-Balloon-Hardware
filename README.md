@@ -95,12 +95,12 @@ _because component labels are too small for an image here._
 
 <br>
 
-<img align="left" width="300" src="https://github.com/MonkHelios/RaspBerry-Pi-High-Altitude-Weather-Balloon-Hardware/blob/master/Payload/Pictures/rf3.jpeg">
+<img align="left" width="250" src="https://github.com/MonkHelios/RaspBerry-Pi-High-Altitude-Weather-Balloon-Hardware/blob/master/Payload/Pictures/rf3.jpeg">
 
-<img align="right" width="270" src="https://github.com/MonkHelios/RaspBerry-Pi-High-Altitude-Weather-Balloon-Hardware/blob/master/Payload/Pictures/rf6.jpeg">
+<img align="right" width="250" src="https://github.com/MonkHelios/RaspBerry-Pi-High-Altitude-Weather-Balloon-Hardware/blob/master/Payload/Pictures/rf6.jpeg">
 
 <p align="center">
-  <img width="270" src="https://github.com/MonkHelios/RaspBerry-Pi-High-Altitude-Weather-Balloon-Hardware/blob/master/Payload/Pictures/paste_closeup.jpeg">
+  <img width="250" src="https://github.com/MonkHelios/RaspBerry-Pi-High-Altitude-Weather-Balloon-Hardware/blob/master/Payload/Pictures/paste_closeup.jpeg">
 
 <br>
 

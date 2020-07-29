@@ -69,6 +69,8 @@ _because component labels are too small for an image here._
 
 ### 2.3 PCB layers:
 
+<br>
+
 <img align="left" width="300" src="https://github.com/MonkHelios/RaspBerry-Pi-High-Altitude-Weather-Balloon-Hardware/blob/master/Payload/Hardware/Transceiver_(LinkBerry)/PCB_Design/Assembly%20output/top.jpg">
 
 <img align="right" width="300" src="https://github.com/MonkHelios/RaspBerry-Pi-High-Altitude-Weather-Balloon-Hardware/blob/master/Payload/Hardware/Transceiver_(LinkBerry)/PCB_Design/Assembly%20output/IP1.jpg">
@@ -90,6 +92,8 @@ _because component labels are too small for an image here._
 <br>
 
 ### 2.4 Images:
+
+<br>
 
 <img align="left" width="300" src="https://github.com/MonkHelios/RaspBerry-Pi-High-Altitude-Weather-Balloon-Hardware/blob/master/Payload/Pictures/rf3.jpeg">
 

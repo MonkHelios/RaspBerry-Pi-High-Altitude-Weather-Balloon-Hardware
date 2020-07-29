@@ -114,4 +114,4 @@ _because component labels are too small for an image here._
 
 This is a rather minimal 2:1 MUX board built around _**ISL54220**_ - a single supply dual 2:1 multiplexer that can operate from a single 2.7V to 5.5V supply. This multiplexes the two serial peripherals - GSM & GPS boards and enables them to be used one at a time on the single serial bus available on the Raspberry Pi. Data rates aren't a bottle neck as this IC was designed for USB purposes (480 Mbps).
 
-### 3.1
+### 3.1 Functional Diagram:

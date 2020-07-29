@@ -40,11 +40,13 @@ To run the essential hardware stacks a power delivery system more capable than a
 
 It was concluded that PCB layout and component placement were the culprits for induction of switching noise _(To be addressed in rev 2.0)_. Hence, I would not recommend following the component placement and PCB layout guides present in _**LTC1871-1's**_ datasheet. Instead, Understand the guidelines given and apply common mutual induction principles while designing the output section. 
 
+<br>
+
 ---
 
 <br>
 
-## 2 Transceiver Board (LinkBerry):
+## 2. Transceiver Board (LinkBerry):
 
 For telemetry, real time location update and live image/video feed a point to point long distance RF link was designed and fabricated which is based on _Texas Instrument's_ _**CC1125**_ - a single chip, fully integrated narrow band RF transceiver. Coupled with a front end module (FEM) - _Qorvo's **RFFM6403**_, the board has a maximum output power level of **30dBm**. The FEM has inbuilt selectable power amplifier (PA) for transmission and a low noise amplifier (LNA) for reception. This communication stack acts as a bridge between the Pi's SPI bus and the unguided RF encoded & modulated data. In other words this encodes, modulates & transmits data received over the SPI bus (from the Pi). Also it decodes data received over its RF link and sends it through the SPI bus.
 This is a 4 layer board since this includes mixed signal components, hence, strict PCB layout requirements. Also a thinner dielectric (prepreg) between the 50 Ohm RF traces and the GND plane allows for narrower RF microstrip lines for a given impedance. So, the layer stackup is important to keep in mind while designing.
@@ -71,7 +73,7 @@ _because component labels are too small for an image here._
 
 <img align="right" width="300" src="https://github.com/MonkHelios/RaspBerry-Pi-High-Altitude-Weather-Balloon-Hardware/blob/master/Payload/Hardware/Transceiver_(LinkBerry)/PCB_Design/Assembly%20output/IP1.jpg">
 
-<img align="left" width="300" src="https://github.com/MonkHelios/RaspBerry-Pi-High-Altitude-Weather-Balloon-Hardware/blob/master/Payload/Hardware/Transceiver_(LinkBerry)/PCB_Design/Assembly%20output/IP2.jpg">
+<img align="center" width="300" src="https://github.com/MonkHelios/RaspBerry-Pi-High-Altitude-Weather-Balloon-Hardware/blob/master/Payload/Hardware/Transceiver_(LinkBerry)/PCB_Design/Assembly%20output/IP2.jpg">
 
 <img align="right" width="300" src="https://github.com/MonkHelios/RaspBerry-Pi-High-Altitude-Weather-Balloon-Hardware/blob/master/Payload/Hardware/Transceiver_(LinkBerry)/PCB_Design/Assembly%20output/bottom.jpg">
 

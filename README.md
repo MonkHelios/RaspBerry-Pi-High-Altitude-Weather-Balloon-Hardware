@@ -42,9 +42,9 @@ It was concluded that PCB layout and component placement were the culprits for i
 
 <br>
 
----
-
 <br>
+
+---
 
 ## 2. Transceiver Board (LinkBerry):
 
@@ -95,7 +95,7 @@ _because component labels are too small for an image here._
 
 <br>
 
-<img align="left" width="300" src="https://github.com/MonkHelios/RaspBerry-Pi-High-Altitude-Weather-Balloon-Hardware/blob/master/Payload/Pictures/rf3.jpeg">
+<img align="left" width="400" src="https://github.com/MonkHelios/RaspBerry-Pi-High-Altitude-Weather-Balloon-Hardware/blob/master/Payload/Pictures/rf3.jpeg">
 
 <img align="right" width="300" src="https://github.com/MonkHelios/RaspBerry-Pi-High-Altitude-Weather-Balloon-Hardware/blob/master/Payload/Pictures/rf6.jpeg">
 

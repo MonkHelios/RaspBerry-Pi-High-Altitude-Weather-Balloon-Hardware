@@ -21,20 +21,20 @@ To run the essential hardware stacks a power delivery system more capable than a
 ### 1.1 Schematic:
 
 <p align="center">
-  <img width="800" src="https://github.com/MonkHelios/RaspBerry-Pi-High-Altitude-Weather-Balloon-Hardware/blob/master/Payload/Hardware/Power_(Pi_Po)/Schematics%2BDesigns/schematic.png">
+  <img width="800" src="https://github.com/MonkHelios/RaspBerry-Pi-High-Altitude-Weather-Balloon-Hardware/blob/master/Payload/Hardware/Power_(Pi_Po)/Output/schematic.png">
 </p>
 
-[Link to PDF](https://github.com/MonkHelios/RaspBerry-Pi-High-Altitude-Weather-Balloon-Hardware/blob/master/Payload/Hardware/Power_(Pi_Po)/Schematics%2BDesigns/schematic.pdf)
+[Link to PDF](https://github.com/MonkHelios/RaspBerry-Pi-High-Altitude-Weather-Balloon-Hardware/blob/master/Payload/Hardware/Power_(Pi_Po)/Output/schematic.pdf)
 
 ### 1.2 Composite:
 
 <p align="center">
-  <img width="800" src="https://github.com/MonkHelios/RaspBerry-Pi-High-Altitude-Weather-Balloon-Hardware/blob/master/Payload/Hardware/Power_(Pi_Po)/Schematics%2BDesigns/composite.png">
+  <img width="800" src="https://github.com/MonkHelios/RaspBerry-Pi-High-Altitude-Weather-Balloon-Hardware/blob/master/Payload/Hardware/Power_(Pi_Po)/Output/composite.png">
 </p>
 
 ### 1.3 Assembly:
 
-<img align="left" width="300" src="https://github.com/MonkHelios/RaspBerry-Pi-High-Altitude-Weather-Balloon-Hardware/blob/master/Payload/Hardware/Power_(Pi_Po)/Schematics%2BDesigns/assembly.png">
+<img align="left" width="300" src="https://github.com/MonkHelios/RaspBerry-Pi-High-Altitude-Weather-Balloon-Hardware/blob/master/Payload/Hardware/Power_(Pi_Po)/Output/assembly.png">
 
 **Comments on Revision 1.0 -** Assistance regarding _PCB layout, component placing & the schematic design_ was taken from the corresponding datasheets. Output voltage was as expected, as well as the ability to supply high currents. However, on probing the output with and oscilloscope it was found that the output waveform was quite noisy and had significant switching noise at the frequency of the used DC-DC converter. 
 
@@ -55,12 +55,12 @@ This is a 4 layer board since this includes mixed signal components, hence, stri
 
 ### 2.1 Schematic:
 
-[Link to PDF](https://github.com/MonkHelios/RaspBerry-Pi-High-Altitude-Weather-Balloon-Hardware/blob/master/Payload/Hardware/Transceiver_(LinkBerry)/PCB_Design/Radio.pdf)
+[Link to PDF](https://github.com/MonkHelios/RaspBerry-Pi-High-Altitude-Weather-Balloon-Hardware/blob/master/Payload/Hardware/Transceiver_(LinkBerry)/Output/Radio.pdf)
 _because component labels are too small for an image here._
 
 `CC1125's datasheet followed for 50 Ohm matching`
 
-### 2.2 Layer Stackup: <img align="right" width="500" src="https://github.com/MonkHelios/RaspBerry-Pi-High-Altitude-Weather-Balloon-Hardware/blob/master/Payload/Hardware/Transceiver_(LinkBerry)/PCB_Design/Assembly%20output/layer%20stack.png">
+### 2.2 Layer Stackup: <img align="right" width="500" src="https://github.com/MonkHelios/RaspBerry-Pi-High-Altitude-Weather-Balloon-Hardware/blob/master/Payload/Hardware/Transceiver_(LinkBerry)/Output/layer%20stack.png">
 
 - Top layer - separated digital and analog signals, most important signals are routed on this layer.
 - Internal plane 1 - GND plane.
@@ -73,20 +73,20 @@ _because component labels are too small for an image here._
 
 <br>
 
-<img align="left" width="250" src="https://github.com/MonkHelios/RaspBerry-Pi-High-Altitude-Weather-Balloon-Hardware/blob/master/Payload/Hardware/Transceiver_(LinkBerry)/PCB_Design/Assembly%20output/top.jpg">
+<img align="left" width="250" src="https://github.com/MonkHelios/RaspBerry-Pi-High-Altitude-Weather-Balloon-Hardware/blob/master/Payload/Hardware/Transceiver_(LinkBerry)/Output/top.jpg">
 
-<img align="right" width="250" src="https://github.com/MonkHelios/RaspBerry-Pi-High-Altitude-Weather-Balloon-Hardware/blob/master/Payload/Hardware/Transceiver_(LinkBerry)/PCB_Design/Assembly%20output/IP1.jpg">
+<img align="right" width="250" src="https://github.com/MonkHelios/RaspBerry-Pi-High-Altitude-Weather-Balloon-Hardware/blob/master/Payload/Hardware/Transceiver_(LinkBerry)/Output/IP1.jpg">
 
 <p align="center">
-  <img width="250" src="https://github.com/MonkHelios/RaspBerry-Pi-High-Altitude-Weather-Balloon-Hardware/blob/master/Payload/Hardware/Transceiver_(LinkBerry)/PCB_Design/Assembly%20output/IP2.jpg">
+  <img width="250" src="https://github.com/MonkHelios/RaspBerry-Pi-High-Altitude-Weather-Balloon-Hardware/blob/master/Payload/Hardware/Transceiver_(LinkBerry)/Output/IP2.jpg">
 </p>
 
-<img align="right" width="250" src="https://github.com/MonkHelios/RaspBerry-Pi-High-Altitude-Weather-Balloon-Hardware/blob/master/Payload/Hardware/Transceiver_(LinkBerry)/PCB_Design/Assembly%20output/silk.jpg">
+<img align="right" width="250" src="https://github.com/MonkHelios/RaspBerry-Pi-High-Altitude-Weather-Balloon-Hardware/blob/master/Payload/Hardware/Transceiver_(LinkBerry)/Output/silk.jpg">
 
-<img align="left" width="250" src="https://github.com/MonkHelios/RaspBerry-Pi-High-Altitude-Weather-Balloon-Hardware/blob/master/Payload/Hardware/Transceiver_(LinkBerry)/PCB_Design/Assembly%20output/bottom.jpg">
+<img align="left" width="250" src="https://github.com/MonkHelios/RaspBerry-Pi-High-Altitude-Weather-Balloon-Hardware/blob/master/Payload/Hardware/Transceiver_(LinkBerry)/Output/bottom.jpg">
 
 <p align="center">
-  <img width="250" src="https://github.com/MonkHelios/RaspBerry-Pi-High-Altitude-Weather-Balloon-Hardware/blob/master/Payload/Hardware/Transceiver_(LinkBerry)/PCB_Design/Assembly%20output/mask.jpg">
+  <img width="250" src="https://github.com/MonkHelios/RaspBerry-Pi-High-Altitude-Weather-Balloon-Hardware/blob/master/Payload/Hardware/Transceiver_(LinkBerry)Output/Output/mask.jpg">
 </p>
 
 <br>

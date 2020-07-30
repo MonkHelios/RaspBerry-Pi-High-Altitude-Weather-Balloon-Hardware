@@ -86,7 +86,7 @@ _because component labels are too small for an image here._
 <img align="left" width="250" src="https://github.com/MonkHelios/RaspBerry-Pi-High-Altitude-Weather-Balloon-Hardware/blob/master/Payload/Hardware/Transceiver_(LinkBerry)/Output/bottom.jpg">
 
 <p align="center">
-  <img width="250" src="https://github.com/MonkHelios/RaspBerry-Pi-High-Altitude-Weather-Balloon-Hardware/blob/master/Payload/Hardware/Transceiver_(LinkBerry)Output/Output/mask.jpg">
+  <img width="250" src="https://github.com/MonkHelios/RaspBerry-Pi-High-Altitude-Weather-Balloon-Hardware/blob/master/Payload/Hardware/Transceiver_(LinkBerry)/Output/mask.jpg">
 </p>
 
 <br>

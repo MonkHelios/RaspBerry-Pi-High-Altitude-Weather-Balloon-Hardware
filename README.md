@@ -118,18 +118,18 @@ This is a rather minimal 2:1 MUX board built around _**ISL54220**_ - a single su
 
 ### 3.1. Functional Diagram:
 
-<img align="left" width="250" src="https://github.com/MonkHelios/RaspBerry-Pi-High-Altitude-Weather-Balloon-Hardware/blob/master/Payload/Hardware/MuxDemux_(Pi_Mux)/Output/Application.png">
+<img align="left" width="400" src="https://github.com/MonkHelios/RaspBerry-Pi-High-Altitude-Weather-Balloon-Hardware/blob/master/Payload/Hardware/MuxDemux_(Pi_Mux)/Output/Application.png">
 
-<img align="right" width="250" src="https://github.com/MonkHelios/RaspBerry-Pi-High-Altitude-Weather-Balloon-Hardware/blob/master/Payload/Hardware/MuxDemux_(Pi_Mux)/Output/Functional.png">
+<img align="right" width="400" src="https://github.com/MonkHelios/RaspBerry-Pi-High-Altitude-Weather-Balloon-Hardware/blob/master/Payload/Hardware/MuxDemux_(Pi_Mux)/Output/Functional.png">
 
 ### 3.2. Truth Table: 
 
 <p align="center">
-  <img width="250" src="https://github.com/MonkHelios/RaspBerry-Pi-High-Altitude-Weather-Balloon-Hardware/blob/master/Payload/Hardware/MuxDemux_(Pi_Mux)/Output/Truth%20Table.png">
+  <img width="800" src="https://github.com/MonkHelios/RaspBerry-Pi-High-Altitude-Weather-Balloon-Hardware/blob/master/Payload/Hardware/MuxDemux_(Pi_Mux)/Output/Truth%20Table.png">
 </p>
 
 ### 3.3. Schematic:
 
 <p align="center">
-  <img width="250" src="https://github.com/MonkHelios/RaspBerry-Pi-High-Altitude-Weather-Balloon-Hardware/blob/master/Payload/Hardware/MuxDemux_(Pi_Mux)/Output/schematic_image.png">
+  <img width="800" src="https://github.com/MonkHelios/RaspBerry-Pi-High-Altitude-Weather-Balloon-Hardware/blob/master/Payload/Hardware/MuxDemux_(Pi_Mux)/Output/schematic_image.png">
 </p>

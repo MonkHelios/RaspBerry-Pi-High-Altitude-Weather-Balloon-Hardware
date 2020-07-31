@@ -118,15 +118,17 @@ This is a rather minimal 2:1 MUX board built around _**ISL54220**_ - a single su
 
 ### 3.1. Functional Diagram:
 
-<img align="left" width="450" src="https://github.com/MonkHelios/RaspBerry-Pi-High-Altitude-Weather-Balloon-Hardware/blob/master/Payload/Hardware/MuxDemux_(Pi_Mux)/Output/Application.png">
-
-<img align="right" width="570" src="https://github.com/MonkHelios/RaspBerry-Pi-High-Altitude-Weather-Balloon-Hardware/blob/master/Payload/Hardware/MuxDemux_(Pi_Mux)/Output/Functional.png">
+<p align="center">
+  <img width="500" src="https://github.com/MonkHelios/RaspBerry-Pi-High-Altitude-Weather-Balloon-Hardware/blob/master/Payload/Hardware/MuxDemux_(Pi_Mux)/Output/Application.png">
+</p>
 
 <br>
 
 ### 3.2. Truth Table: 
 
-![TT](https://github.com/MonkHelios/RaspBerry-Pi-High-Altitude-Weather-Balloon-Hardware/blob/master/Payload/Hardware/MuxDemux_(Pi_Mux)/Output/Truth%20Table.png)
+<p align="center">
+  <img width="500" src="https://github.com/MonkHelios/RaspBerry-Pi-High-Altitude-Weather-Balloon-Hardware/blob/master/Payload/Hardware/MuxDemux_(Pi_Mux)/Output/Truth%20Table.png">
+</p>
 
 <br>
 

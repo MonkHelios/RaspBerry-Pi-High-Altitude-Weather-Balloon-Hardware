@@ -155,4 +155,6 @@ We used an available Raspberry Pi GSM hat made SmartElex. The primary purpose of
 Both GSM as well as the GPS boards used were purchased as a designed and fabricated board. This was because, in this particular application we did not require some special characteristic like we did in the case of the trancseiver board or the power distribution board. This GPS board is made by "Keyestudio". Heart of the board is a "Ublox Neo-6M" SMD GPS module.
 Buying a ready made board instead of designing boards which already exist seemed practical and less costly.
 
-
+<p align="center">
+  <img width="700" src="https://github.com/MonkHelios/RaspBerry-Pi-High-Altitude-Weather-Balloon-Hardware/blob/master/Payload/Hardware/GPS%2BGSM_Module/GPS/Board.png">
+</p>

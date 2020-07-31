@@ -139,3 +139,13 @@ This is a rather minimal 2:1 MUX board built around _**ISL54220**_ - a single su
 </p>
 
 [Link to PDF](https://github.com/MonkHelios/RaspBerry-Pi-High-Altitude-Weather-Balloon-Hardware/blob/master/Payload/Hardware/MuxDemux_(Pi_Mux)/Output/schematic.pdf)
+
+---
+
+## 4. GSM board:
+
+We used an available Raspberry Pi GSM hat made SmartElex. The primary purpose of GSM in this project would be to keep the communication link intact even if LOS communication is not possible. For example - maintaining comm link very near to ground where LOS might not be available. Also, for retrieval purposes the GPS and GSM board works hand in hand to provide the exact location where it landed. The GSM board is based on Quectel's M66 SMD module. So, relevant AT commands will be functional.
+
+<p align="center">
+  <img width="700" src="https://github.com/MonkHelios/RaspBerry-Pi-High-Altitude-Weather-Balloon-Hardware/blob/master/Payload/Hardware/MuxDemux_(Pi_Mux)/Output/schematic_image.png">
+</p>

@@ -144,7 +144,7 @@ This is a rather minimal 2:1 MUX board built around _**ISL54220**_ - a single su
 
 ## 4. GSM board:
 
-We used an available Raspberry Pi GSM hat made SmartElex. The primary purpose of GSM in this project would be to keep the communication link intact even if LOS communication is not possible. For example - maintaining comm link very near to ground where LOS might not be available. Also, for retrieval purposes the GPS and GSM board works hand in hand to provide the exact location where it landed. The GSM board is based on Quectel's M66 SMD module. So, relevant AT commands will be functional.
+We used an available Raspberry Pi GSM hat made _**SmartElex**_. The primary purpose of GSM in this project would be to keep the communication link intact even if LOS communication is not possible. For example - maintaining comm link very near to ground where LOS might not be available. Also, for retrieval purposes the GPS and GSM board works hand in hand to provide the exact location where it landed. The GSM board is based on _**Quectel's M66**_ SMD module. So, relevant AT commands will be functional.
 
 <p align="center">
   <img width="700" src="https://github.com/MonkHelios/RaspBerry-Pi-High-Altitude-Weather-Balloon-Hardware/blob/master/Payload/Hardware/GPS%2BGSM_Module/GSM/Component_labelled.png">
@@ -152,9 +152,15 @@ We used an available Raspberry Pi GSM hat made SmartElex. The primary purpose of
 
 ## 5. GPS board:  
 
-Both GSM as well as the GPS boards used were purchased as a designed and fabricated board. This was because, in this particular application we did not require some special characteristic like we did in the case of the trancseiver board or the power distribution board. This GPS board is made by "Keyestudio". Heart of the board is a "Ublox Neo-6M" SMD GPS module.
+Both GSM as well as the GPS boards used were purchased as a designed and fabricated board. This was because, in this particular application we did not require some special characteristic like we did in the case of the trancseiver board or the power distribution board. This GPS board is made by _**"Keyestudio"**_. Heart of the board is a _**"Ublox Neo-6M"**_ SMD GPS module.
 Buying a ready made board instead of designing boards which already exist seemed practical and less costly.
 
 <p align="center">
-  <img width="700" src="https://github.com/MonkHelios/RaspBerry-Pi-High-Altitude-Weather-Balloon-Hardware/blob/master/Payload/Hardware/GPS%2BGSM_Module/GPS/Board.png">
+  <img width="600" src="https://github.com/MonkHelios/RaspBerry-Pi-High-Altitude-Weather-Balloon-Hardware/blob/master/Payload/Hardware/GPS%2BGSM_Module/GPS/Board.png">
 </p>
+
+---
+
+## 6. Sensor board (PiSense):
+
+_Details about PiSense will be updated once design and fabrication are complete._
